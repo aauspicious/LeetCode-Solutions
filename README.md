@@ -33,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Math
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
