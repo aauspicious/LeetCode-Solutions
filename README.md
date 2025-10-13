@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -37,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
