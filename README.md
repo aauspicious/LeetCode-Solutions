@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
