@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
