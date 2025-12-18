@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aauspicious/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aauspicious/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Queue
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/aauspicious/LeetCode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
