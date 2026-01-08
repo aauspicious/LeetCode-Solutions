@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1768-merge-strings-alternately](https://github.com/aauspicious/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
