@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0704-binary-search) |
