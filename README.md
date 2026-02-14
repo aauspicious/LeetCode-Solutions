@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/aauspicious/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
