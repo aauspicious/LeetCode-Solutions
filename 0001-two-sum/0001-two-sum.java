@@ -1,20 +1,15 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // Key = number, Value = its index in the array
-        Map<Integer, Integer> map = new HashMap<>();
+       for(int i = 0; i < nums.length; i++){
 
-        for (int i = 0; i < nums.length; i++) {
-            int match = target - nums[i]; // What number do we need?
+        for(int j = i + 1; j < nums.length; j++){
 
-            if (map.containsKey(match)) {
-                // Found it! Return both indices
-                return new int[]{map.get(match), i};
-            } else {
-                // Not found yet, store this number with its index
-                map.put(nums[i], i);
+            if(nums[i] + nums[j] == target){
+                return new int [] {i,j};
             }
         }
-
-        return new int[0]; // No solution found
+        
+       }
+       return new int [] {0, -1}; 
     }
 }
